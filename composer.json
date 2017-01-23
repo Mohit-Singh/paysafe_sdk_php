@@ -19,7 +19,7 @@
    },
    "autoload": {
        "classmap": [
-           "./source/paysafe/paysafeapiclient.php"
+           "./source/paysafe.php"
        ]
    }
 }
