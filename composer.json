@@ -19,7 +19,7 @@
    },
    "autoload": {
        "classmap": [
-           "./source/optimalpayments.php"
+           "./source/paysafe.php"
        ]
    }
 }
