@@ -1,5 +1,5 @@
 {
-   "name": "mohit-singh/paysafe_sdk_php",
+   "name": "paysafe_sdk/paysafe_sdk_php",
    "description": "paysafe SDK customize for composer uses and more configuration. for more information please visit https://developer.paysafe.com/en/sdks/server-side/php/introduction/",
    "type": "library",
    "keywords": [
