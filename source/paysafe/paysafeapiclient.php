@@ -199,7 +199,7 @@ class PaysafeApiClient
                   'Content-Type: application/json; charset=utf-8'
              ),
              CURLOPT_RETURNTRANSFER => true,
-             CURLOPT_SSL_VERIFYPEER => true,
+             CURLOPT_SSL_VERIFYPEER => ($this->environment == Environment::TEST)?false:true,
              CURLOPT_SSL_VERIFYHOST => 2,
         );
         if(($cert = static::getCACertPath())) {
