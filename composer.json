@@ -1,0 +1,20 @@
+{
+   "name": "mohit-singh/paysafe_sdk_php",
+   "description": "paysafe SDK customize for composer uses and more configuration. for more information please visit https://developer.paysafe.com/en/sdks/server-side/php/introduction/",
+   "type": "library",
+   "keywords": [
+       "paysafe",
+       "SDK",
+       "Payment"
+   ],
+   "homepage": "https://github.com/Mohit-Singh/paysafe_sdk_php",
+   "authors": [
+       {
+           "name": "Mohit K Singh",
+           "email": "mohit.singh2090@gmail.com"
+       }
+   ],
+   "require":{
+       "php":">=5.3.0"
+   }
+}
